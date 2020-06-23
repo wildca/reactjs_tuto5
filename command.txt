@@ -1,0 +1,8 @@
+if there is problem with react-native-command 
+please add the following to your bash_profile file :HOST="localhost"
+and run: source ~/.bash_profile
+
+
+to launch server: npm start
+
+tuto url: https://www.taniarascia.com/getting-started-with-react/
